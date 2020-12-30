@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+img{
+    transition: transform.2s;
+    border: 10px solid #AAAAAA;
+    height: 200px;
+    width: 200px;
+}
+img:hover{
+    transform: scale(0.9);
+}
